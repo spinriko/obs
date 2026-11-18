@@ -2,6 +2,11 @@
 
 WAN and LAN network observability stack centered on scheduled `iperf3` probes, Telegraf exec ingestion, Prometheus storage, and Grafana dashboards.
 
+## Repository Mirrors
+
+- Forgejo is the primary repository.
+- GitHub is maintained as a synchronized mirror.
+
 ## Current Architecture
 
 - Probe runner: `pip-speed-wrapper.sh`
